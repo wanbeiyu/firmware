@@ -1,0 +1,6 @@
+[submodule "lib/nthaka"]
+	path = lib/nthaka
+	url = https://github.com/U-1F992/nthaka.git
+[submodule "lib/wanbeiyu"]
+	path = lib/wanbeiyu
+	url = https://github.com/wanbeiyu/wanbeiyu.git
